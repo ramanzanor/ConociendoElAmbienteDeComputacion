@@ -1,0 +1,12 @@
+
+NIVELES		PERMISOS	VALOR NUMERICO	 VALOR OCTAL	VALOR CON LETRA
+						 (En binario)
+Propietario	Lectura		     4		    100		      r--
+Grupo		Escritura	     2		    010		      -w-
+Otros		Ejecución	     1		    001		      --x
+
+Un archivo con el siguiente valor:
+
+	-rwxrwxrwx
+
+permite todos los permisos a todos los usuarios
