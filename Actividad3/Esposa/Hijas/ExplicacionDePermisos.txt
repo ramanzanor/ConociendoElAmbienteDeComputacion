@@ -13,4 +13,7 @@ permite todos los permisos a todos los usuarios
 
 
 
-Se le agrega la explicacion de permisos a Carpetas
+En los permisos para directorios es lo mismo solo que en 
+Lectura --Permite visualizar el contenido
+Escritura-- Permite crear/eliminar archivos y directorios dentro de este directorio
+Ejecución-- Permite entrar al directorio
